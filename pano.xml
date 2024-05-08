@@ -871,8 +871,8 @@
       <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
       <hotspot id="Point01" description="" url="{node13}" target="" title="거실" pan="-168.73" skinid="ht_node" tilt="-12.39"/>
       <hotspot id="Point02" description="" url="{node14}" target="" title="복도" pan="-92.47" skinid="ht_node" tilt="-11.8"/>
-      <hotspot id="Point03" description="" url="{node19}" target="" title="사우나실" pan="-353.38" skinid="ht_node" tilt="-12.39"/>
-      <hotspot id="Point04" description="" url="{node28}" target="" title="침실1" pan="-40.13" skinid="ht_node" tilt="-11.35"/>
+      <hotspot id="Point03" description="" url="{node19}" target="" title="사우나실" pan="-342.73" skinid="ht_node" tilt="-9.99"/>
+      <hotspot id="Point04" description="" url="{node28}" target="" title="침실1" pan="-24.41" skinid="ht_node" tilt="-10.18"/>
       <hotspot id="Point05" description="" url="" target="_blank" title="" pan="-46.9" skinid="Button" tilt="-34.68"/>
     </hotspots>
     <media/>
