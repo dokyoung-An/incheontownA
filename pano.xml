@@ -668,7 +668,6 @@
     <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
       <label enabled="1" bordercolor="0x000000" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" backgroundalpha="1" border="1" width="180" borderradius="1" textcolor="0x000000" height="20" background="1"/>
       <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot id="Point01" description="" url="{node9}" target="" title="계단" pan="-152.3" skinid="ht_node" tilt="-17.89"/>
       <hotspot id="Point02" description="" url="{node10}" target="" title="침실2 복도" pan="-188.39" skinid="ht_node" tilt="-14.11"/>
       <hotspot id="Point03" description="" url="{node9}" target="" title="계단" pan="-324.54" skinid="ht_node" tilt="-17.25"/>
     </hotspots>
