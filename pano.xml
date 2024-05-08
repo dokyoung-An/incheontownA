@@ -412,7 +412,7 @@
     <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
       <label enabled="1" bordercolor="0x000000" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" backgroundalpha="1" border="1" width="180" borderradius="1" textcolor="0x000000" height="20" background="1"/>
       <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot id="Point01" description="" url="{node14}" target="" title="복도" pan="-204.03" skinid="ht_node" tilt="-20.31"/>
+      <hotspot id="Point01" description="" url="{node14}" target="" title="복도" pan="-207.96" skinid="ht_node" tilt="-22.31"/>
       <hotspot id="Point02" description="" url="{node26}" target="" title="침실1 드레스룸" pan="-117.45" skinid="ht_node" tilt="-22.57"/>
       <hotspot id="Point03" description="" url="{node17}" target="" title="중정" pan="-282.12" skinid="ht_node" tilt="-27.67"/>
     </hotspots>
@@ -498,7 +498,7 @@
     <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
       <label enabled="1" bordercolor="0x000000" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" backgroundalpha="1" border="1" width="180" borderradius="1" textcolor="0x000000" height="20" background="1"/>
       <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot id="Point01" description="" url="{node5}" target="" title="스튜디오" pan="-28.06" skinid="ht_node" tilt="-20.88"/>
+      <hotspot id="Point01" description="" url="{node5}" target="" title="스튜디오" pan="-33.54" skinid="ht_node" tilt="-20.57"/>
       <hotspot id="Point02" description="" url="{node6}" target="" title="주차장" pan="-199.45" skinid="ht_node" tilt="-29.41"/>
     </hotspots>
     <media/>
@@ -555,7 +555,7 @@
     <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
       <label enabled="1" bordercolor="0x000000" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" backgroundalpha="1" border="1" width="180" borderradius="1" textcolor="0x000000" height="20" background="1"/>
       <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot id="Point01" description="" url="{node5}" target="" title="스튜디오" pan="-74.86" skinid="ht_node" tilt="-25.92"/>
+      <hotspot id="Point01" description="" url="{node5}" target="" title="스튜디오" pan="-79.34" skinid="ht_node" tilt="-27.27"/>
     </hotspots>
     <media/>
     <transition zoomafterinfov="140" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomspeed="2" zoomout="0" softedge="0" zoomafteroutfov="40" type="crossdissolve" blendtime="1" delay="none" zoomfov="40"/>
@@ -669,7 +669,8 @@
       <label enabled="1" bordercolor="0x000000" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" backgroundalpha="1" border="1" width="180" borderradius="1" textcolor="0x000000" height="20" background="1"/>
       <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
       <hotspot id="Point01" description="" url="{node9}" target="" title="계단" pan="-152.3" skinid="ht_node" tilt="-17.89"/>
-      <hotspot id="Point02" description="" url="{node10}" target="" title="침실2 복도" pan="-10.21" skinid="ht_node" tilt="-15.38"/>
+      <hotspot id="Point02" description="" url="{node10}" target="" title="침실2 복도" pan="-188.39" skinid="ht_node" tilt="-14.11"/>
+      <hotspot id="Point03" description="" url="{node9}" target="" title="계단" pan="-324.54" skinid="ht_node" tilt="-17.25"/>
     </hotspots>
     <media/>
     <transition zoomafterinfov="140" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomspeed="2" zoomout="0" softedge="0" zoomafteroutfov="40" type="crossdissolve" blendtime="1" delay="none" zoomfov="40"/>
@@ -784,7 +785,7 @@
     <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
       <label enabled="1" bordercolor="0x000000" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" backgroundalpha="1" border="1" width="180" borderradius="1" textcolor="0x000000" height="20" background="1"/>
       <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot id="Point02" description="" url="{node8}" target="" title="가족실" pan="-89.9" skinid="ht_node" tilt="-19.81"/>
+      <hotspot id="Point02" description="" url="{node8}" target="" title="가족실" pan="-89.77" skinid="ht_node" tilt="-19.84"/>
       <hotspot id="Point01" description="" url="{node2}" target="" title="계단" pan="-343.59" skinid="ht_node" tilt="-32.77"/>
     </hotspots>
     <media/>
@@ -1205,7 +1206,7 @@
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max fov="140" fovfisheye="360" fovstereographic="330" scaletofit="1" pan="360" tilt="90"/>
     </view>
-    <userdata title="안방 파우더룸" latitude="" copyright="" source="" description="" heading="0" author="" tags="3차수정-1층-ALL|메인|수영장|지하" longitude="" nodeid="node52" comment="" datetime="" info="" customnodeid=""/>
+    <userdata title="안방 파우더룸" latitude="" copyright="" source="" description="" heading="0" author="" tags="3차수정-1층-ALL|메인|수영장|지하" longitude="" nodeid="node52" comment="" datetime="" info="넓게" customnodeid=""/>
     <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
       <label enabled="1" bordercolor="0x000000" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" backgroundalpha="1" border="1" width="180" borderradius="1" textcolor="0x000000" height="20" background="1"/>
       <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
@@ -1524,7 +1525,7 @@
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="2">
-      <start fov="129.81" pan="0" tilt="0" projection="4"/>
+      <start fov="116.697" pan="-3.04776" tilt="5.38346" projection="4"/>
       <flyin fov="170" pan="0" tilt="-90" projection="9"/>
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max fov="140" fovfisheye="360" fovstereographic="330" scaletofit="1" pan="360" tilt="90"/>
@@ -1550,7 +1551,7 @@
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="2">
-      <start fov="129.81" pan="0" tilt="0" projection="4"/>
+      <start fov="107.879" pan="0.917907" tilt="3.98009" projection="4"/>
       <flyin fov="170" pan="0" tilt="-90" projection="9"/>
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max fov="140" fovfisheye="360" fovstereographic="330" scaletofit="1" pan="360" tilt="90"/>
